@@ -26,7 +26,7 @@ export const projects: Project[] = [
     image: 'https://images.unsplash.com/photo-1547658719-da2b51169166?q=80&w=1200&auto=format&fit=crop',
     technologies: ['Next.js', 'TypeScript', 'Tailwind CSS', 'MongoDB'],
     githubUrl: 'https://github.com/papoi-dvv/ECommerce',
-    featured: false,
+    featured: true,
   },
   {
     slug: 'atlas-app',
